@@ -1,2 +1,2 @@
-# ojexile.girhub.io
-Website designed to act as my portfolio.
+# enzoblog.github.io
+personal blog testign before we move to portfolio websites
