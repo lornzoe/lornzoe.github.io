@@ -7,7 +7,7 @@
   	{% include nav.html %}
 		<div id="content-left">
       <div id="post">
-        <h2>{{ page.title }}</h2>
+        <h2>{{ page.title | downcase }}</h2>
         <i>posted on {{ page.date | date: "%-d %b %Y" }}</i>
         {{ content }}
         {% if page.categories.size > 0 %}
