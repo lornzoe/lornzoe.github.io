@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## bought a new mouse
 bought a new mouse. it's pretty fancy, not gonna lie.
