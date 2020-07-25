@@ -9,4 +9,3 @@ node_modules
 .bundle
 vendor/
 images/.comments
-.jekyll-cache
