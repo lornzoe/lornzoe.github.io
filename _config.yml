@@ -1,7 +1,7 @@
-title: Minimalist
-owner: Max Muster
+title: lorenzo's blog
+owner: Lorenzo Yanga
 email:
-description: A simple and minimalistic jekyll blogging theme
+description: lorenzo's blog, logging down all kinds of things in life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 language: en

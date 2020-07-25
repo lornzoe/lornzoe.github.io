@@ -4,6 +4,7 @@ body	{
 	font-family: 'Cutive Mono', serif;
 	font-size:100%;
 	line-height:150%;
+	background-image: url('{ site.baseurl }/assets/images/whitedotgrid.jpg');
 }
 
 a:link, a:visited	{
