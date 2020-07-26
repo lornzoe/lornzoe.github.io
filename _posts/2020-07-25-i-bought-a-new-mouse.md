@@ -5,5 +5,5 @@ date:   2020-07-25 13:52:00 +0800
 categories: update
 comments: false
 ---
-bought a new mouse. it's pretty fancy, not gonna lie. but it comes on tuesday.
+bought a new mouse. it's pretty fancy, ngl. but it comes on tuesday.
 it's a razer viper mini.

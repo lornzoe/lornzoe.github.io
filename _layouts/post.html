@@ -9,7 +9,9 @@
       <div id="post">
         <h2>{{ page.title | downcase }}</h2>
         <i>posted on {{ page.date | date: "%-d %b %Y" }}</i>
+        <div id = post-content>
         {{ content }}
+        </div>
         {% if page.categories.size > 0 %}
           <div id="categories">
             <p><b>Categories:</b>&nbsp;
