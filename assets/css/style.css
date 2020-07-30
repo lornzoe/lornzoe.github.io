@@ -94,6 +94,12 @@ a:hover	{
 	color: grey;
 }
 
+#post-short p{
+	font-family: 'Open Sans', sans-serif;
+	font-size:0.8em;
+
+}
+
 #post i	{
 	font-family: 'Open Sans', sans-serif;
 
