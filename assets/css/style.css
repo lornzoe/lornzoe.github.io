@@ -101,8 +101,23 @@ a:hover	{
 	color: grey;
 }
 
-#post-content 
+#post-content p
 {
+	line-height:150%;
+	font-size:0.85em;
+	font-family: 'Open Sans', sans-serif;
+
+}
+#post-content img
+{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 90%;
+
+}
+
+#categories{
+	border-top: 1px solid #000;
 }
 
 #categories a, #categories a:link, #categories a:visited {
