@@ -24,6 +24,6 @@ With limited attacks and units, the dynamic shifts to a puzzle game; with lots o
 
 The game also does a couple of things to make it forgiving and limit how bad things can snowball. Made a bad move? -- you can undo your actions, or go so far as to even reset the turn. If you can't stop an attack, it's still not the end of the world as there's still a chance (albeit small) that it gets negated. There's choice in the island map so that you can choose what you're going for in terms of bonus objectives. Even when you lose, you can send one of your characters to start a new run with. There's just alot of small features that help make the game experience more enjoyable.
 
-This game's amazing and I love it. I'm almost 20 hours in, and I've only done all the achievements for the Rift Walkers.
+This game's amazing and I love it. Each play session is a time sink, I'm almost 20 hours in, and I've only done all the achievements for the Rift Walkers.
 
 five outta five.
