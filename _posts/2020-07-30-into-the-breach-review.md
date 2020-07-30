@@ -14,15 +14,15 @@ The core goal of the game is to **survive**, not to kill enemies. You're not pla
 
 ![itb2](\assets\images\games\20200730183637_1.jpg)
 
-The most unique aspect of this game are the telegraphed attack system and the attack order system. Such focused, intent actions gives lots of clear information to the player on what to do. There's no mights and maybes to attacks, but definitives. 
+The most unique aspect of this game are the telegraphed attack and the attack order systems. Such focused, intent information helps to give the player a clear picture on what's going on. There's no mights and maybes to attacks, but definitives. 
 
-The types of interactions this game can do is another strong point of this game. Killing enemies seems like a necessity, but the game allows the player to *manipulate* enemies to their bidding. You can kill an enemy to stop it from attacking a building, but you can also make an enemy shoot another enemy before the latter attacks the structure. 
+The types of interactions this game can do is another strong point of this game. Killing enemies seems like a necessity at first glance, but the game allows the player to *manipulate* enemies to their bidding. You can kill an enemy to stop it from attacking a building, but you can also make an enemy shoot another enemy before the latter attacks the structure.
 
-With limited attacks and units, the dynamic shifts to a puzzle game; with lots of reliable information, you're now trying to mitigate as much damage as you can with the limited options you have. 
+With limited attacks and units, the dynamic shifts to a puzzle game; with lots of reliable information, you're now trying to find an optimal solution every turn, mitigating as much damage as you can with the limited options you have. 
 
 ![itb0](\assets\images\games\20200730171845_1.jpg)
 
-The game also does a couple of things to limit how bad things can snowball. There's choice in the island map so that you can choose what you're going for in terms of bonus objectives. Even when you lose, you can send one of your characters to start a new run with. If you can't stop an attack, there's still a chance (albeit small) that it gets negated -- though that's more of a last resort. 
+The game also does a couple of things to make it forgiving and limit how bad things can snowball. Made a bad move? -- you can undo your actions, or go so far as to even reset the turn. If you can't stop an attack, it's still not the end of the world as there's still a chance (albeit small) that it gets negated. There's choice in the island map so that you can choose what you're going for in terms of bonus objectives. Even when you lose, you can send one of your characters to start a new run with. There's just alot of small features that help make the game experience more enjoyable.
 
 This game's amazing and I love it. I'm almost 20 hours in, and I've only done all the achievements for the Rift Walkers.
 
