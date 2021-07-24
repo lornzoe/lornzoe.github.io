@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-### lorenzo's blog
+### enzo's blog
 it's a blog.
 
 
